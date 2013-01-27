@@ -1,3 +1,3 @@
 | Solutions for the qualifying round of the facebook hacker cup.
-| The last problems solutions hasn't been uploaded yet
+| The last problem's solutions hasn't been uploaded yet
 
